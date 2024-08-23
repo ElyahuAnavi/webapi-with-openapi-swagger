@@ -67,6 +67,7 @@ After launching the server, the API endpoints can be accessed at `http://localho
 
 ### Endpoints
 - **GET /hello**: Returns a simple "Hello World" message, demonstrating a basic API response.
+![image](https://github.com/user-attachments/assets/15acac64-f65f-4b92-8ade-d5c81d25dc89)
 
 ---
 
