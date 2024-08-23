@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplicationWithSwagger</name>
+    </assembly>
+    <members>
+        <member name="T:WebApplicationWithSwagger.Controllers.HelloController">
+            <summary>
+            This is a sample controller to demonstrate Swagger documentation.
+            </summary>
+        </member>
+        <member name="M:WebApplicationWithSwagger.Controllers.HelloController.Get">
+            <summary>
+            Returns a simple "hello world" message.
+            </summary>
+            <remarks>
+            This API is used to demonstrate a simple GET request returning a "hello world" message.
+            </remarks>
+            <returns>A string with the message "hello world".</returns>
+            <response code="200">Returns the "hello world" message</response>
+        </member>
+    </members>
+</doc>

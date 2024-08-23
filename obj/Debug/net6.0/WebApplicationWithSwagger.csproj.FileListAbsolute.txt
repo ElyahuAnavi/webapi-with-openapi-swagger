@@ -1,0 +1,68 @@
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\WebApplicationWithSwagger.exe
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\WebApplicationWithSwagger.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\appsettings.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.csproj.AssemblyReference.cache
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.AssemblyInfoInputs.cache
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.AssemblyInfo.cs
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.csproj.CoreCompileInputs.cache
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationWithSwagger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationWithSwagger.props
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationWithSwagger.props
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationWithSwagger.props
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\scopedcss\bundle\WebApplicationWithSwagger.styles.css
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.csproj.CopyComplete
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\refint\WebApplicationWithSwagger.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.pdb
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\WebApplicationWithSwagger.deps.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\WebApplicationWithSwagger.runtimeconfig.json
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\WebApplicationWithSwagger.pdb
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.genruntimeconfig.cache
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\ref\WebApplicationWithSwagger.dll
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\bin\Debug\net6.0\WebApplicationWithSwagger.xml
+C:\Users\Eliahu Anavi\Documents\Technical question from the interview\WebApplicationWithSwagger\obj\Debug\net6.0\WebApplicationWithSwagger.xml
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\appsettings.Development.json
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\appsettings.json
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\WebApplicationWithSwagger.exe
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\WebApplicationWithSwagger.deps.json
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\WebApplicationWithSwagger.runtimeconfig.json
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\WebApplicationWithSwagger.dll
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\WebApplicationWithSwagger.pdb
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\WebApplicationWithSwagger.xml
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\allgit\webapi-with-openapi-swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.csproj.AssemblyReference.cache
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.AssemblyInfoInputs.cache
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.AssemblyInfo.cs
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.csproj.CoreCompileInputs.cache
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.MvcApplicationPartsAssemblyInfo.cs
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.MvcApplicationPartsAssemblyInfo.cache
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets\msbuild.WebApplicationWithSwagger.Microsoft.AspNetCore.StaticWebAssets.props
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplicationWithSwagger.props
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationWithSwagger.props
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplicationWithSwagger.props
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets.pack.json
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets.build.json
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\staticwebassets.development.json
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\scopedcss\bundle\WebApplicationWithSwagger.styles.css
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.csproj.CopyComplete
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.dll
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\refint\WebApplicationWithSwagger.dll
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.xml
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.pdb
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\WebApplicationWithSwagger.genruntimeconfig.cache
+D:\allgit\webapi-with-openapi-swagger\obj\Debug\net6.0\ref\WebApplicationWithSwagger.dll
