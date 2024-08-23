@@ -1,0 +1,72 @@
+# .NET Core
+**/bin/
+**/obj/
+**/out/
+**/Debug/
+**/Release/
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.ncrunch*
+*.localhistory
+*.orig
+
+# Others
+.DS_Store
+*.ide
+*.ide-shm
+*.ide-wal
+*.sln
+*.lock.json
+project.lock.json
+artifacts/
+
+# Environment Variables
+.env
+
+# Swagger generated XML docs
+*.xml
+
+# Backup files
+*.bak
+*.swp
+*.swm
+*.swo
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Rider
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NPM packages
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# JetBrains Rider
+.idea/
+.idea/*
